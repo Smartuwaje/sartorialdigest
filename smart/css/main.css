@@ -1,0 +1,27 @@
+*{
+
+    Margin:0px;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+      width: 100%;
+    }
+  }
+
+body{
+
+    background-color: #f0f0f0;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+  .banner{
+    background-color:aqua;
+    height:200px;
+
+  }
+
+  
+ 
+  
